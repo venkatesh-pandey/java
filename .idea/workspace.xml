@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e4ce687-96af-4141-9f4d-38aef2c0e33f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Venkatesh_pandey.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverse_of_number.java" afterDir="false" />
-    </list>
+    <list default="true" id="4e4ce687-96af-4141-9f4d-38aef2c0e33f" name="Changes" comment="3ed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,8 +36,7 @@
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+      "directory"
     ]
   }
 }]]></component>
@@ -59,6 +49,36 @@
       <option name="presentableId" value="Default" />
       <updated>1672412853194</updated>
     </task>
+    <task id="LOCAL-00001" summary="3ed">
+      <created>1672556324463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672556324463</updated>
+    </task>
+    <task id="LOCAL-00002" summary="3ed">
+      <created>1672556348350</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672556348350</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3ed" />
+    <option name="LAST_COMMIT_MESSAGE" value="3ed" />
   </component>
 </project>
